@@ -88,13 +88,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="first commit of work" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="254" y="23" key="CommitChangelistDialog2" timestamp="1583208640005">
+    <state x="398" y="124" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583208708278">
       <screen x="0" y="23" width="1280" height="724" />
     </state>
-    <state x="254" y="23" key="CommitChangelistDialog2/0.23.1280.724@0.23.1280.724" timestamp="1583208640005" />
-    <state x="260" y="110" key="Vcs.Push.Dialog.v2" timestamp="1583208449727">
+    <state x="398" y="124" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.724@0.23.1280.724" timestamp="1583208708278" />
+    <state x="254" y="23" key="CommitChangelistDialog2" timestamp="1583208659945">
       <screen x="0" y="23" width="1280" height="724" />
     </state>
-    <state x="260" y="110" key="Vcs.Push.Dialog.v2/0.23.1280.724@0.23.1280.724" timestamp="1583208449727" />
+    <state x="254" y="23" key="CommitChangelistDialog2/0.23.1280.724@0.23.1280.724" timestamp="1583208659945" />
+    <state x="260" y="110" key="Vcs.Push.Dialog.v2" timestamp="1583208678641">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="260" y="110" key="Vcs.Push.Dialog.v2/0.23.1280.724@0.23.1280.724" timestamp="1583208678641" />
   </component>
 </project>

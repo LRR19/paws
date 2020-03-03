@@ -1,6 +1,6 @@
 //DOM html for navigation bar
 document.getElementById("navMenu").innerHTML =
-    `<ul> <li><a href="homepage.html">Home</a></li>
+    `<ul> <li><a href="index.html">Home</a></li>
      <li><a href="search.html" >Find a Pet</a></li>
      <li><a href="information.html">Caring for a Pet</a></li>
      <li><a href="contact.html" >Contact US</a></li> </ul>`;
